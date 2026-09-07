@@ -7,7 +7,7 @@ created_at: "03-09-2026"
 
 # Day 1: Starting with schematics!
 
-I wanted to build a wiggly cam (quad cameras inspired by k4mera).
+I want to build a wiggly cam (quad cameras inspired by k4mera).
 
 I have made some PCBs before but nothing this complex, so it was a huge learning experience for me. 
 
@@ -100,7 +100,7 @@ AT THIS POINT, i was mostly done with the pcb, now for the fun part!!! (routing 
 **Total time tracked: 1h2m**
 
 # Day 8: ROUTING TRACES
-i love routing traces. very thereputic. very fun. i love routing traces. did i mention i love routing traces? because i love routing traces.
+i love routing traces. very therapeutic. very fun. i love routing traces. did i mention i love routing traces? because i love routing traces.
 
 so basically i routed traces and yeah thats what i did.
 
@@ -141,7 +141,7 @@ i started with cad, just so you know, I SUCK AT CAD. i was dreading this all alo
 anyway, while making this i just kinda did whatever, i made a box and kindaaa followed hackpad tutorial.
 I wanted the main hole to be shaped like a sun, so i tried to find a sun dxf but it was REALLY bad, i tried fixing it, but i eventually gave up
 
-then, i made something KINDA cool looking at the end BUT i didnt account for the rgb, so i have to redo it tmrw.
+then, i made something KINDA cool looking at the end BUT i didnt account for the rgb ring, so i have to redo it tmrw.
 
 ![cam cad](image-4.png)
 
@@ -186,4 +186,29 @@ then i wasnt sure if THIS was practical either, so i changed the entire thing to
 
 then i started with the top plate, but ragequit like i always do waaa :0
 
+PS: Lapse bugged and saved this project to the wrong hackatime Project!!!!!! 
+[Link to lapse](https://lapse.hackclub.com/timelapse/Y-OtEQbrefqc)
+
 **Total time tracked: 1h25m**
+
+# Day 15: DONE WITH CAD!!!!
+I finished the top plate! 
+For the main body, i tried making it a bit better looking, it still looks weirddddd but its alright i guess. I tried making an angled extrusion but i couldnt figure out how that worked
+
+For the top plate, i tried to find a cool font for branding, that took a while and finally decided to make a logo thing for eiko myself on figma. I exported that as an svg and YAY
+
+![eiko logo](image-8.png)
+
+THEN I finished the BOM, (its on lapse as eiko [16]) which surprisingly didnt take that long.
+
+# Day 17: Finishing touches, assembly and renders
+It took SO LONG trying to render everything AND make it look good. it still doesnt look good. im not proud of it. I completely changed the color scheme which i MIGHT regret when i get up. ok i think i regret it already. 
+
+update: while writing this journal, i changed the colors to dark gray and white and it looks SO much cuter, im keeping this. (it took 30 mins and i didnt lapse it cuz i thought itd take 2 mins)
+
+i think im super proud abt how it turned out now :3
+![renders](image-9.png)
+
+i want to make my readme super cool
+
+now for the part im like REALLY sucky at...

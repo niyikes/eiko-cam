@@ -1,0 +1,21 @@
+Name,Qty,Price (INR),Total (INR),Total (USD),Source
+Orange Pi CM4,1,6095,6095,64.50,https://www.crazypi.com/Orange-Pi-Compute-Module-4
+TP4056 3.7V LiPo Charger,1,184,184,1.95,https://robu.in/product/tp4056-3-7v-lithium-battery-charging-module-1a-usb-type-c-port-ph2-0-terminal/
+USB-C receptacle,1,280,280,2.96,https://robu.in/product/usb4745-03-a-gct-usb-sealed-connector-top-mount-usb-type-c-usb-3-2-receptacle-24-position/
+MT3608 boost converter,1,20,20,0.21,https://robu.in/product/mt3608-xian-aerosemi-tech-boost-type-adjustable-2a-2v24v-sot-23-6-dc-dc-converters-rohs/
+Micro SD(TF) Storage Board,1,389,389,4.12,https://robu.in/product/waveshare-micro-sdtf-storage-board/
+Alps EC11E Rotary Encoder,2,415.24,830.48,8.79,https://in.element14.com/alps/ec11e15204a3/encoder-vertical-30-det-15ppr/dp/1520804
+IMX219 camera,1,3659,3659,38.72,https://robu.in/product/arducam-8mp-imx219-camera-module-with-fisheye-lens-for-jeson-nano-and-raspberry-pi-compute-module/
+LED Ring,1,131,131,1.39,https://robu.in/product/24-bit-ws2812-5050-rgb-led-built-full-color-driving-lights-circular-development-board/
+"SPI TFT 2.8""",1,869,869,9.20,https://robu.in/product/2-8-inch-spi-touch-screen-module-tft-interface-240320/
+100nF Cap,1,4.64,4.64,0.05,https://robu.in/product/100nf-400v-dip-polyester-film-capacitor-pitch10mm/
+1.2k Resistor,2,1.18,2.36,0.02,https://sharvielectronics.com/product/1-2k-ohm-1-2-watt-resistor-5-tolerance/?srsltid=AfmBOop_KjVY47dzfoXi4CWjf_1jw4zTtUNWGwQGkLDhiHwNL6AoxNVr-K8
+10k resistor,5,0.45,2.25,0.02,https://sharvielectronics.com/product/10k-ohm-1-4-watt-resistor-5-tolerance/?srsltid=AfmBOor_BLt_RtDBF33HfhOk6yM5lACXKTvUCTln_R8-l3N5K7yXXhhYvbQ
+100k resistor,2,0.45,0.9,0.01,https://sharvielectronics.com/product/100k-ohm-1-4-watt-resistor-5-tolerance/?srsltid=AfmBOorekEvSy_ZM4l-NxzQIRY_QBmY4xp4E9Uk2Z5jwPEX8ErmvdMn5XxQ
+13k resistor,2,1.08,2.16,0.02,https://robu.in/product/mf25-13k-multicomp-pro-through-hole-resistor-13-kohm-mf25-series-250-mw-%25c2%25b1-1-axial-leaded-250-v/
+LiPo battery,1,329,329,3.48,https://robu.in/product/nova-103450-2000mah-3-7v-lipo-battery-pack/
+M2.5 screws,10,1.24,12.4,0.13,https://onlyscrews.in/products/m2-5-x-6mm-phillips-pan-head-ss-304-screw?currency=INR&country=IN&variant=49225964290361&stkn=6e84ebfba1b8&srsltid=AfmBOoqa3yh4OWoI0rmvf1wWVPL4qJFaDUbfIXblgdmYDpmdl84wOu8fJmc
+Heat set inserts,10,2.5,25,0.26,https://www.flyrobo.in/m2.5-x-5mm-brass-heat-set-threaded-round-insert-nut?tracking=ads&srsltid=AfmBOookBgwW8saHiLZBdPPLw2o8sEvLAO9xduUaRAJl3Xz5IQvqPBg1eU8
+,,,,,
+,,,,,
+,,,TOTAL (USD):,135.45,

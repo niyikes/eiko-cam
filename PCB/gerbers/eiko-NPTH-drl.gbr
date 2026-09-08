@@ -1,0 +1,36 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-09-08T18:45:42+05:30*%
+%TF.ProjectId,eiko,65696b6f-2e6b-4696-9361-645f70636258,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-09-08 18:45:42*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,0.650000*%
+%TD*%
+%TA.AperFunction,ComponentDrill*%
+%ADD11C,2.700000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J101*%
+X217080000Y-117225000D03*
+X222860000Y-117225000D03*
+D11*
+%TO.C,U107*%
+X128730000Y-83060000D03*
+X128730000Y-116060000D03*
+%TO.C,REF\u002A\u002A*%
+X136850000Y-54700000D03*
+%TO.C,U107*%
+X176730000Y-83060000D03*
+X176730000Y-116060000D03*
+%TO.C,REF\u002A\u002A*%
+X192780000Y-115610000D03*
+M02*

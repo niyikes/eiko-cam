@@ -5,6 +5,11 @@ description: "A camera built around the Orange Pi CM4 with a tft and an LED ring
 created_at: "21-06-2026"
 ---
 
+### Total hours (excluding journal and firmware time) = 14h 39m 
+
+
+<br>
+
 # Day 1: Starting with schematics!
 
 I want to build a wiggly cam (quad cameras inspired by k4mera).
@@ -21,6 +26,12 @@ For day 1, I roughed out the schematics:
 * rotary encoders (2)
 * an SD card slot
 
+
+excluse the low qual
+![alt text](image-12.png)
+
+[lapse](https://lapse.hackclub.com/timelapse/ubU5O429R0UL)
+
 **Total time tracked: 1h4m**
 
 # Day 2: finishing up schematics & ERC 
@@ -34,6 +45,9 @@ IDK WHY IT TOOK 40 MINS i think im kinda dumb
 
 (please spare me its FOUR CAMERAS im scared)
 
+
+
+[Lapse](https://lapse.hackclub.com/timelapse/0ZSWGH-R307w)
 **Total time tracked: 41m**
 
 
@@ -44,7 +58,7 @@ I spent the session googling the pinout and figuring out how its different from 
 
 its kinda similar but some signals are in different places and the naming is also kinda different. 
 
-
+[Lapse](https://lapse.hackclub.com/timelapse/Rts7u5A0DIab)
 **Total time tracked: 23m**
 
 # Day 4: ERC + Footprints
@@ -58,11 +72,13 @@ then  i googled the footprints and downloaded them and stuff, which was really b
 
 SCHEMATICS ARE DONE!!!! PCB layout time (the scary part :fear:)
 
+[Lapse](https://lapse.hackclub.com/timelapse/uZAfYT_P7OIX)
 **Total time tracked: 23m**
 
 # Day 5: PCB TIME
 
-I started by fixing up the schematics a bit.
+I started by fixing up the schematics a bit, i messed up the schematics a bit last time
+![schematics](Images/Journal/image-10.png)
 
 THEN WE GET TO THE PCB LAYOUT!
 I spent a good portion of my time googling the dimensions of some of my components (AGAIN, IM NEW TO HARDWARE; NOT SURE IF THIS IS THE RIGHT WAY TO DO IT)
@@ -73,6 +89,7 @@ I KINDA ragequit along the way, I got a bit frustrated lol
 
 The four cameras were kinda hard to figure out. It got too complex sob
 
+[Lapse](https://lapse.hackclub.com/timelapse/Aepzxww6glKQ)
 **Total time tracked: 45m**
 
 
@@ -82,8 +99,12 @@ UHHHH HI JOURNAL!!
 
 i got rid of the 4 camera thingies. I got bored/frustrated/annoyed at the eiiiiko idea + IT WAS EXPENSIVE AS HELL. i renamed it to eiko-cam.
 
-I spent most of my time researching on parts and stuff.
-By the end of this, i had a rough ROUGH final layout
+I spent most of my time researching on parts and stuff, so that i can get an idea of the size (for the pcb)
+By the end of this, i had a rough idea of the layout
+![layout](Images/Journal/image-61.png)
+
+
+[Lapse](https://lapse.hackclub.com/timelapse/T8M4nXyhyFp5)
 **Total time tracked: 49m**
 
 # Day 7: LED RING -- schematics + PCB!
@@ -93,17 +114,25 @@ At this point i thought a normal ass camera was too boring; i needed a cool gimm
 
 I decided to add a 24bit led ring to it, so we can click cool pictures WITH led? how cool is that? very cool! (thank u journal ily)
 
+![ring](Images/Journal/image-71.png)
+
 I fixed up the schematics a bit first, then i got to laying it on the pcb out ALL OVER AGAIN AAAAAAa
+
+![pcb](Images/Journal/image-81.png)
 
 AT THIS POINT, i was mostly done with the pcb, now for the fun part!!! (routing traces yayyyyyyyyyy)
 
+[Lapse](https://lapse.hackclub.com/timelapse/4bgr98WrAynd)
 **Total time tracked: 1h2m**
 
 # Day 8: ROUTING TRACES
 i love routing traces. very therapeutic. very fun. i love routing traces. did i mention i love routing traces? because i love routing traces.
+![mostly routed](Images/Journal/image-91.png)
 
 so basically i routed traces and yeah thats what i did.
 
+
+[Lapse](https://lapse.hackclub.com/timelapse/dpy_0H8_tGBq)
 **Total time tracked: 38m**
 
 # Day 9: ROUTING (more) TRACES
@@ -113,7 +142,9 @@ the ever-humble design rules checker:
 
 ![drc errors](Images/Journal/image-1.png)
 
-**Total time tracked: 44m**
+eh ill fix it tmrw
+[Lapse](https://lapse.hackclub.com/timelapse/dNWne6YC-ZzR)
+**Total time tracked: 47m**
 
 
 # Day 10: fixing drc errors (sob), starting CAD
@@ -132,6 +163,8 @@ seeing 0 errors is SO satisfying.
 then i looked up step files for my components so i can make my pcb, which would help me with cad.
 AAAAAAAAAAAAA CAD I DONT WANNA DO CAD IM SO BAD AT CAD IM DREADING IT SO  MUCH
 
+[Lapse](https://lapse.hackclub.com/timelapse/_rPDu_U728Vh)
+
 **Total time tracked: 1h3m**
 
 
@@ -148,7 +181,7 @@ then, i made something KINDA cool looking at the end BUT i didnt account for the
 
 ![cam cad](Images/Journal/image-4.png)
 
-
+[Lapse](https://lapse.hackclub.com/timelapse/8Qk8iL_9YuwQ)
 **Total time tracked: 1h1m**
 
 # Day 12: CAD AAAAAA HELP
@@ -159,20 +192,24 @@ unfortunately im a chud and horrible at cad, so i couldnt figure out how to resi
 i looked it up and figured it out, but NOW i didnt know how to move the imported svg sketch
 
 SO, I MADE THE STAR A BODY THAT I COULD MOVE AROUND
+![dumbass star](Images/Journal/image-101.png)
 
 am i smart or am i a dumb idiot
 pls dont answer that im embarrassed
 
-**Total time tracked: 1h1m**
+[Lapse](https://lapse.hackclub.com/timelapse/ZWWJTxKr0Vqp)
+**Total time tracked: 1h5m**
 
 
 # Day 13: when will the suffering end (cad)
 so i finished making the holes for the rgb, NO CLUE if its gna work, but i did it and thats all that matters :>
 
 i have to put in more holes after, i only put 4 so far, but thats something ill figure out tomorrow (hopefully)
+![star hole](image-11.png)
 
 i tried making the top plate, and making an assembly to see if everything fits together
 
+[Lapse](https://lapse.hackclub.com/timelapse/bmARxUfmpesB)
 **Total time tracked: 25m**
 
 # Day 14: most embarrassing cad sesh of all time
@@ -190,7 +227,7 @@ then i wasnt sure if THIS was practical either, so i changed the entire thing to
 then i started with the top plate, but ragequit like i always do waaa :0
 
 PS: Lapse bugged and saved this project to the wrong hackatime Project!!!!!! 
-[Link to lapse](https://lapse.hackclub.com/timelapse/Y-OtEQbrefqc)
+[Lapse](https://lapse.hackclub.com/timelapse/Y-OtEQbrefqc)
 
 **Total time tracked: 1h25m**
 
@@ -204,7 +241,9 @@ For the top plate, i tried to find a cool font for branding, that took a while a
 
 THEN I finished the BOM, (its on lapse as eiko [16]) which surprisingly didnt take that long.
 
-**Total time tracked: 55m + 33m = 1h47m**
+[Lapse 1](https://lapse.hackclub.com/timelapse/XWttw3xPp7c_)
+[Lapse 2](https://lapse.hackclub.com/timelapse/xnEHjDXaLeAr)
+**Total time tracked: 51m + 33m = 1h44m**
 
 # Day 17: Finishing touches, assembly and renders
 It took SO LONG trying to render everything AND make it look good. it still doesnt look good. im not proud of it. I completely changed the color scheme which i MIGHT regret when i get up. ok i think i regret it already. 
@@ -218,6 +257,7 @@ now i only have firmware left, which ill make super basic for now, and im DONE!!
 
 im super exhausted rn, its 4:50am and its a school day AND i have a physics and math exam like SOON
 
+[Lapse](https://lapse.hackclub.com/timelapse/6tRoa_z47z9U)
 **Total time tracked: 1h24m**
 
 thank you reviewer, thank you horizons, thank you hack club <3 

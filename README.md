@@ -26,15 +26,15 @@ It takes photos, has a TFT screen and a 24-LED RGB ring around the lens that you
 ## PCB
 
 
-![front](image.png)
-![back](image-1.png)
+![front](Images/image.png)
+![back](Images/image-1.png)
 
 
 ## Cad
 
 | Case Front | Case Back | Plate |
 |---|---|---|
-| ![case front](image-2.png)| ![case back](image-3.png)| ![plate](image-4.png)|
+| ![case front](Images/image-2.png)| ![case back](Images/image-3.png)| ![plate](Images/image-4.png)|
 
 
 
@@ -48,6 +48,14 @@ You can find the firmware [here](https://github.com/niyikes/eiko-cam/tree/main/f
 | Press enc1 | Shutter/Click picture |
 | Press enc2 | Toggle LED ring on/off |
 | Rotate enc2 | Change LED color |
+
+### Flash the firmware
+Connect the Orange Pi CM4 and run:
+
+```
+./setup.sh
+sudo python3 eiko.py
+```
 
 
 ## BOM
@@ -75,5 +83,6 @@ You can find the firmware [here](https://github.com/niyikes/eiko-cam/tree/main/f
 
 I loved making this project, it was super fun and i learnt a LOT in the process. SUPER HAPPY WITH HOW IT TURNED OUT! :D
 
-<br><br><br>
-made with <3 by nia
+<br><br>
+-ˋˏ✄┈┈┈┈
+made with <3 by nia 

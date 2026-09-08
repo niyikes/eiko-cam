@@ -28,7 +28,7 @@ For day 1, I roughed out the schematics:
 
 
 excluse the low qual
-![alt text](image-12.png)
+![schematics](Images/Journal/image-12.png)
 
 [lapse](https://lapse.hackclub.com/timelapse/ubU5O429R0UL)
 
@@ -251,6 +251,7 @@ It took SO LONG trying to render everything AND make it look good. it still does
 update: while writing this journal, i changed the colors to dark gray and white and it looks SO much cuter, im keeping this. (it took 30 mins and i didnt lapse it cuz i thought itd take 2 mins)
 
 i think im super proud abt how it turned out now :3
+
 ![renders](Images/Journal/image-9.png)
 
 now i only have firmware left, which ill make super basic for now, and im DONE!!!! YAYAYAYAYAYY

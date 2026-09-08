@@ -2,7 +2,7 @@
 title: "EikoCam"
 author: "Nia (niyikes)"
 description: "A camera built around the Orange Pi CM4 with a tft and an LED ring"
-created_at: "03-09-2026"
+created_at: "21-06-2026"
 ---
 
 # Day 1: Starting with schematics!
@@ -28,7 +28,7 @@ SO day 2 was just me fixing the billion erc errors i got
 
 then, I worked on the CSI camera lanes on the CM4 module like it was kinda confusing trying to figure out where to put what.
 
-![cm4](image.png)
+![cm4](Images/Journal/image.png)
 
 IDK WHY IT TOOK 40 MINS i think im kinda dumb
 
@@ -111,7 +111,7 @@ HI JOURNAL I ROUTED TRACES TODAY!?!?!?!
 
 the ever-humble design rules checker:
 
-![drc errors](image-1.png)
+![drc errors](Images/Journal/image-1.png)
 
 **Total time tracked: 44m**
 
@@ -119,12 +119,12 @@ the ever-humble design rules checker:
 # Day 10: fixing drc errors (sob), starting CAD
 so the main error was "Front solder mask aperture bridges items with different nets".
 
-![reddit thread](image-2.png)
+![reddit thread](Images/Journal/image-2.png)
 i trusted this friendly redditor from 2years ago, and reduced the soldermask expansion.
 
 that did the trick and removed most errors. 
 
-![0 errors](image-3.png)
+![0 errors](Images/Journal/image-3.png)
 
 seeing 0 errors is SO satisfying.
 
@@ -139,11 +139,14 @@ AAAAAAAAAAAAA CAD I DONT WANNA DO CAD IM SO BAD AT CAD IM DREADING IT SO  MUCH
 i started with cad, just so you know, I SUCK AT CAD. i was dreading this all along. im SO scared of cad. 
 
 anyway, while making this i just kinda did whatever, i made a box and kindaaa followed hackpad tutorial.
+
+I couldve made it way smaller, yes, but i wanted it to have a boxy and big-ish design so its satisfying to hold. 
+
 I wanted the main hole to be shaped like a sun, so i tried to find a sun dxf but it was REALLY bad, i tried fixing it, but i eventually gave up
 
 then, i made something KINDA cool looking at the end BUT i didnt account for the rgb ring, so i have to redo it tmrw.
 
-![cam cad](image-4.png)
+![cam cad](Images/Journal/image-4.png)
 
 
 **Total time tracked: 1h1m**
@@ -178,11 +181,11 @@ so im coming back to this proj after a LONG time. anyway, i just want to finish 
 i tried to do something different, I HAVE NO CLUE if it is practical, i think it is BUT IT LOOKS KINDA BAD
 
 so i initially tried to put circles + stars to hold the circle hole thingy together
-![starsandcircles](image-5.png)
+![starsandcircles](Images/Journal/image-5.png)
 and i wasnt sure if it was practical, so i changed it to rectangles
-![rect and star](image-6.png)
+![rect and star](Images/Journal/image-6.png)
 then i wasnt sure if THIS was practical either, so i changed the entire thing to just rectangle, it looks ugly in cad, but i think itll look fine irl
-![uhhh cam cad](image-7.png)
+![uhhh cam cad](Images/Journal/image-7.png)
 
 then i started with the top plate, but ragequit like i always do waaa :0
 
@@ -197,9 +200,11 @@ For the main body, i tried making it a bit better looking, it still looks weirdd
 
 For the top plate, i tried to find a cool font for branding, that took a while and finally decided to make a logo thing for eiko myself on figma. I exported that as an svg and YAY
 
-![eiko logo](image-8.png)
+![eiko logo](Images/Journal/image-8.png)
 
 THEN I finished the BOM, (its on lapse as eiko [16]) which surprisingly didnt take that long.
+
+**Total time tracked: 55m + 33m = 1h47m**
 
 # Day 17: Finishing touches, assembly and renders
 It took SO LONG trying to render everything AND make it look good. it still doesnt look good. im not proud of it. I completely changed the color scheme which i MIGHT regret when i get up. ok i think i regret it already. 
@@ -207,8 +212,12 @@ It took SO LONG trying to render everything AND make it look good. it still does
 update: while writing this journal, i changed the colors to dark gray and white and it looks SO much cuter, im keeping this. (it took 30 mins and i didnt lapse it cuz i thought itd take 2 mins)
 
 i think im super proud abt how it turned out now :3
-![renders](image-9.png)
+![renders](Images/Journal/image-9.png)
 
-i want to make my readme super cool
+now i only have firmware left, which ill make super basic for now, and im DONE!!!! YAYAYAYAYAYY
 
-now for the part im like REALLY sucky at...
+im super exhausted rn, its 4:50am and its a school day AND i have a physics and math exam like SOON
+
+**Total time tracked: 1h24m**
+
+thank you reviewer, thank you horizons, thank you hack club <3 
